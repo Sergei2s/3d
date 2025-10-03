@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.11" start="node6" apprev="21010" hassounds="0">
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" levelingpitch="0" flat="1" width="2048" levelbias="0.400" overlap="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" height="1536">
+      <level width="2048" preload="0" height="1536" predecode="0"/>
+      <level width="1024" preload="0" height="768" predecode="0"/>
+      <level width="512" preload="0" height="384" predecode="0"/>
+      <level width="256" preload="0" height="192" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="-61.12" tilt="-90"/>
+      <max fov="140" fovfisheye="360" scaletofit="0" pan="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="" info="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично. Мы сознательно вынесли её из ванной комнаты, чтобы сэкономить там ценное пространство и не загромождать санузел. Это место в коридоре изначально было спроектировано под хозяйственную зону, поэтому здесь можно установить дополнительные полочки для хранения и дополнительные вешалки для одежды.Прямо сейчас рассматривается вопрос установки раздвижной или складной двери, которая закроет этот угол и превратит его в аккуратный мини-хозблок." comment="" source="" customnodeid="" nodeid="node6" description="" datetime="23.09.2025 16:06" copyright="" heading="0" longitude="" title="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично." tags="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" backgroundcolor="0x000000" backgroundalpha="1" enabled="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" textalpha="1" wordwrap="1" border="0" borderradius="0" height="20"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" enabled="1" zoomin="7" zoomfov="40" type="mesh" delay="none" blendcolor="0x000000" zoomout="0" blendtime="0" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" sensitivity="13" invertwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" rubberband="1" speedwheel="3" hideabout="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" levelingpitch="0" flat="1" width="2048" levelbias="0.400" overlap="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" height="1536">
+      <level width="2048" preload="0" height="1536" predecode="0"/>
+      <level width="1024" preload="0" height="768" predecode="0"/>
+      <level width="512" preload="0" height="384" predecode="0"/>
+      <level width="256" preload="0" height="192" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="-61.12" tilt="-90"/>
+      <max fov="140" fovfisheye="360" scaletofit="0" pan="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="" info="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично. Мы сознательно вынесли её из ванной комнаты, чтобы сэкономить там ценное пространство и не загромождать санузел. Это место в коридоре изначально было спроектировано под хозяйственную зону, поэтому здесь можно установить дополнительные полочки для хранения и дополнительные вешалки для одежды.Прямо сейчас рассматривается вопрос установки раздвижной или складной двери, которая закроет этот угол и превратит его в аккуратный мини-хозблок." comment="" source="" customnodeid="" nodeid="node5" description="" datetime="23.09.2025 16:06" copyright="" heading="0" longitude="" title="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично." tags="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" backgroundcolor="0x000000" backgroundalpha="1" enabled="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" textalpha="1" wordwrap="1" border="0" borderradius="0" height="20"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" enabled="1" zoomin="7" zoomfov="40" type="mesh" delay="none" blendcolor="0x000000" zoomout="0" blendtime="0" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" sensitivity="13" invertwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" rubberband="1" speedwheel="3" hideabout="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" levelingpitch="0" flat="1" width="1536" levelbias="0.400" overlap="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" height="2048">
+      <level width="1536" preload="0" height="2048" predecode="0"/>
+      <level width="768" preload="0" height="1024" predecode="0"/>
+      <level width="384" preload="0" height="512" predecode="0"/>
+      <level width="192" preload="0" height="256" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="-61.12" tilt="-90"/>
+      <max fov="140" fovfisheye="360" scaletofit="0" pan="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="" info="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично. Мы сознательно вынесли её из ванной комнаты, чтобы сэкономить там ценное пространство и не загромождать санузел. Это место в коридоре изначально было спроектировано под хозяйственную зону, поэтому здесь можно установить дополнительные полочки для хранения и дополнительные вешалки для одежды.Прямо сейчас рассматривается вопрос установки раздвижной или складной двери, которая закроет этот угол и превратит его в аккуратный мини-хозблок." comment="" source="" customnodeid="" nodeid="node4" description="" datetime="" copyright="" heading="0" longitude="" title="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично." tags="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" backgroundcolor="0x000000" backgroundalpha="1" enabled="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" textalpha="1" wordwrap="1" border="0" borderradius="0" height="20"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" enabled="1" zoomin="7" zoomfov="40" type="mesh" delay="none" blendcolor="0x000000" zoomout="0" blendtime="0" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" sensitivity="13" invertwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" rubberband="1" speedwheel="3" hideabout="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" levelingpitch="0" flat="1" width="2048" levelbias="0.400" overlap="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" height="1536">
+      <level width="2048" preload="0" height="1536" predecode="0"/>
+      <level width="1024" preload="0" height="768" predecode="0"/>
+      <level width="512" preload="0" height="384" predecode="0"/>
+      <level width="256" preload="0" height="192" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="-61.12" tilt="-90"/>
+      <max fov="140" fovfisheye="360" scaletofit="0" pan="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="" info="Мы сознательно вынесли её из ванной комнаты, чтобы сэкономить там ценное пространство и не загромождать санузел. Это место в коридоре изначально было спроектировано под хозяйственную зону, поэтому здесь можно установить дополнительные полочки для хранения и дополнительные вешалки для одежды.Прямо сейчас рассматривается вопрос установки раздвижной или складной двери, которая закроет этот угол и превратит его в аккуратный мини-хозблок." comment="" source="" customnodeid="" nodeid="node3" description="" datetime="23.09.2025 16:06" copyright="" heading="0" longitude="" title="Современная стиральная машина на 6 килограмм Samsung с инверторным двигателем. Это значит, что она не только отлично отстирывает, но и работает очень тихо и экономично." tags="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" backgroundcolor="0x000000" backgroundalpha="1" enabled="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" textalpha="1" wordwrap="1" border="0" borderradius="0" height="20"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" enabled="1" zoomin="7" zoomfov="40" type="mesh" delay="none" blendcolor="0x000000" zoomout="0" blendtime="0" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" sensitivity="13" invertwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" rubberband="1" speedwheel="3" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" description="" tags="" copyright="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

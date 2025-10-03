@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.11" start="node6" apprev="21010">
+  <panorama id="node6" hideabout="1">
+    <input flat="1" height="2048" leveltilesize="510" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" levelbiashidpi="1.000" cylinder="1" levelbias="0.400" width="1536" levelingpitch="0">
+      <level predecode="0" preload="0" height="2048" width="1536"/>
+      <level predecode="0" preload="0" height="1024" width="768"/>
+      <level predecode="0" preload="0" height="512" width="384"/>
+      <level predecode="1" preload="0" height="256" width="192"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" scaletofit="0" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" source="" longitude="" title="Шкафчики оснащены доводчиками, имеют выдвижную и бесшумную конструкцию. Вы сможете сразу начать готовить — внутри мы разместили стартовый набор качественной посуды." description="" heading="0" info="" comment="" copyright="" latitude="" tags="" customnodeid="" nodeid="node6" datetime="23.09.2025 14:53"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="0" bordercolor="0x000000" height="20" enabled="1" background="0" wordwrap="1" textcolor="0x000000" backgroundcolor="0x000000" textalpha="1" borderradius="0" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" zoomin="7" blendtime="0" zoomout="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" type="mesh" zoomspeed="2" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" sensitivity="13" contextvr="1" lockedkeyboard="0" lockedwheel="0" speedwheel="3" zoomcentercursor="1" contextprojections="0" invertcontrol="1" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" dblclickfullscreen="1" rubberband="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input flat="1" height="1277" leveltilesize="510" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" levelbiashidpi="1.000" cylinder="1" levelbias="0.400" width="1173" levelingpitch="0">
+      <level predecode="0" preload="0" height="1277" width="1173"/>
+      <level predecode="0" preload="0" height="638" width="586"/>
+      <level predecode="1" preload="0" height="319" width="293"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" scaletofit="0" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" source="" longitude="" title="Шкафчики оснащены доводчиками, имеют выдвижную и бесшумную конструкцию. Вы сможете сразу начать готовить — внутри мы разместили стартовый набор качественной посуды." description="" heading="0" info="" comment="" copyright="" latitude="" tags="" customnodeid="" nodeid="node7" datetime="27.08.2025 18:15"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="0" bordercolor="0x000000" height="20" enabled="1" background="0" wordwrap="1" textcolor="0x000000" backgroundcolor="0x000000" textalpha="1" borderradius="0" backgroundalpha="1" width="180"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomafteroutfov="40" delay="none" enabled="1" zoomin="7" blendtime="0" zoomout="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" type="mesh" zoomspeed="2" zoomoutpause="1"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" sensitivity="13" contextvr="1" lockedkeyboard="0" lockedwheel="0" speedwheel="3" zoomcentercursor="1" contextprojections="0" invertcontrol="1" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" dblclickfullscreen="1" rubberband="1" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" title="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

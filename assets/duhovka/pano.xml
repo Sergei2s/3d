@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.11" start="node2" apprev="21010" hassounds="0">
+  <panorama id="node2" hideabout="1">
+    <input width="2048" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1" height="1536" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" flat="1">
+      <level predecode="0" width="2048" height="1536" preload="0"/>
+      <level predecode="0" width="1024" height="768" preload="0"/>
+      <level predecode="0" width="512" height="384" preload="0"/>
+      <level predecode="1" width="256" height="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" fovfisheye="360" pan="360" tilt="90" fovstereographic="330" scaletofit="0"/>
+    </view>
+    <userdata comment="" copyright="" description="" latitude="" info="Духовой шкаф с сенсорной панелью — это настоящая находка для тех, кто любит готовить. Он обладает целым арсеналом функций: здесь есть гриль для идеальных стейков, конвекция для равномерного выпекания и румяной корочки, и даже антипригарное покрытие. Удобное управление и стильный дизайн делают процесс готовки настоящим удовольствием." nodeid="node2" customnodeid="" author="" longitude="" tags="" heading="0" source="" datetime="27.08.2025 18:17" title="Вся техника гармонично вписана в интерьер кухни, создавая ощущение уюта и современного комфорта."/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" borderradius="0" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0x000000" background="0" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomafteroutfov="40" zoomin="7" enabled="1" zoomfov="40" type="mesh" blendtime="0" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="3" lockedmouse="0" dblclickfullscreen="1" lockedkeyboardzoom="0" invertwheel="1" zoomcentercursor="1" rubberband="1" sensitivity="13" simulatemass="1" lockedkeyboard="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input width="2048" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1" height="1536" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" flat="1">
+      <level predecode="0" width="2048" height="1536" preload="0"/>
+      <level predecode="0" width="1024" height="768" preload="0"/>
+      <level predecode="0" width="512" height="384" preload="0"/>
+      <level predecode="1" width="256" height="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" fovfisheye="360" pan="360" tilt="90" fovstereographic="330" scaletofit="0"/>
+    </view>
+    <userdata comment="" copyright="" description="" latitude="" info="Духовой шкаф с сенсорной панелью — это настоящая находка для тех, кто любит готовить. Он обладает целым арсеналом функций: здесь есть гриль для идеальных стейков, конвекция для равномерного выпекания и румяной корочки, и даже антипригарное покрытие. Удобное управление и стильный дизайн делают процесс готовки настоящим удовольствием." nodeid="node3" customnodeid="" author="" longitude="" tags="" heading="0" source="" datetime="23.09.2025 14:53" title="Вся техника гармонично вписана в интерьер кухни, создавая ощущение уюта и современного комфорта."/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" borderradius="0" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0x000000" background="0" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomafteroutfov="40" zoomin="7" enabled="1" zoomfov="40" type="mesh" blendtime="0" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="3" lockedmouse="0" dblclickfullscreen="1" lockedkeyboardzoom="0" invertwheel="1" zoomcentercursor="1" rubberband="1" sensitivity="13" simulatemass="1" lockedkeyboard="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input width="2048" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1" height="1536" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" flat="1">
+      <level predecode="0" width="2048" height="1536" preload="0"/>
+      <level predecode="0" width="1024" height="768" preload="0"/>
+      <level predecode="0" width="512" height="384" preload="0"/>
+      <level predecode="1" width="256" height="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" fovfisheye="360" pan="360" tilt="90" fovstereographic="330" scaletofit="0"/>
+    </view>
+    <userdata comment="" copyright="" description="" latitude="" info="Духовой шкаф с сенсорной панелью — это настоящая находка для тех, кто любит готовить. Он обладает целым арсеналом функций: здесь есть гриль для идеальных стейков, конвекция для равномерного выпекания и румяной корочки, и даже антипригарное покрытие. Удобное управление и стильный дизайн делают процесс готовки настоящим удовольствием." nodeid="node4" customnodeid="" author="" longitude="" tags="" heading="0" source="" datetime="23.09.2025 14:53" title="Вся техника гармонично вписана в интерьер кухни, создавая ощущение уюта и современного комфорта."/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" borderradius="0" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0x000000" background="0" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomafteroutfov="40" zoomin="7" enabled="1" zoomfov="40" type="mesh" blendtime="0" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="3" lockedmouse="0" dblclickfullscreen="1" lockedkeyboardzoom="0" invertwheel="1" zoomcentercursor="1" rubberband="1" sensitivity="13" simulatemass="1" lockedkeyboard="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input width="2048" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1" height="1536" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" flat="1">
+      <level predecode="0" width="2048" height="1536" preload="0"/>
+      <level predecode="0" width="1024" height="768" preload="0"/>
+      <level predecode="0" width="512" height="384" preload="0"/>
+      <level predecode="1" width="256" height="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" fovfisheye="360" pan="360" tilt="90" fovstereographic="330" scaletofit="0"/>
+    </view>
+    <userdata comment="" copyright="" description="" latitude="" info="На кухне вас ждёт современная встроенная техника. Газовая варочная панель выполнена из закалённого стекла — она не только стильно смотрится, но и легко очищается. Автоматический розжиг позволяет зажечь конфорку одним поворотом ручки, а высокая мощность горелок делает готовку быстрой и удобной." nodeid="node6" customnodeid="" author="" longitude="" tags="" heading="0" source="" datetime="23.09.2025 14:53" title="Вся техника гармонично вписана в интерьер кухни, создавая ощущение уюта и современного комфорта."/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" borderradius="0" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0x000000" background="0" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomafteroutfov="40" zoomin="7" enabled="1" zoomfov="40" type="mesh" blendtime="0" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="3" lockedmouse="0" dblclickfullscreen="1" lockedkeyboardzoom="0" invertwheel="1" zoomcentercursor="1" rubberband="1" sensitivity="13" simulatemass="1" lockedkeyboard="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input width="2048" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1" height="1536" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" flat="1">
+      <level predecode="0" width="2048" height="1536" preload="0"/>
+      <level predecode="0" width="1024" height="768" preload="0"/>
+      <level predecode="0" width="512" height="384" preload="0"/>
+      <level predecode="1" width="256" height="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" fovfisheye="360" pan="360" tilt="90" fovstereographic="330" scaletofit="0"/>
+    </view>
+    <userdata comment="" copyright="" description="" latitude="" info="На кухне вас ждёт современная встроенная техника. Газовая варочная панель выполнена из закалённого стекла — она не только стильно смотрится, но и легко очищается. Автоматический розжиг позволяет зажечь конфорку одним поворотом ручки, а высокая мощность горелок делает готовку быстрой и удобной." nodeid="node5" customnodeid="" author="" longitude="" tags="" heading="0" source="" datetime="23.09.2025 14:53" title="Вся техника гармонично вписана в интерьер кухни, создавая ощущение уюта и современного комфорта."/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" borderradius="0" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0x000000" background="0" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomafteroutfov="40" zoomin="7" enabled="1" zoomfov="40" type="mesh" blendtime="0" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="3" lockedmouse="0" dblclickfullscreen="1" lockedkeyboardzoom="0" invertwheel="1" zoomcentercursor="1" rubberband="1" sensitivity="13" simulatemass="1" lockedkeyboard="0" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" description="" copyright="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

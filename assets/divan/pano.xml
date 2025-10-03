@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" appversion="7.1.11" hassounds="0" start="node4">
+  <panorama hideabout="1" id="node4">
+    <input flat="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" levelbias="0.400" width="1536" levelbiashidpi="1.000" overlap="1" height="2048" levelingpitch="0">
+      <level predecode="0" height="2048" width="1536" preload="0"/>
+      <level predecode="0" height="1024" width="768" preload="0"/>
+      <level predecode="0" height="512" width="384" preload="0"/>
+      <level predecode="1" height="256" width="192" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="-39.62" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata copyright="" description="" title="Удобный раскладной диван-кровать в отличном состоянии, сочетает комфорт и практичность." info="Этот диван легко раскладывается в полноценную двуспальную кровать, создавая удобное спальное место. Он в отличном состоянии и оснащён вместительной нишей для хранения постельного белья. Такое решение помогает экономить пространство и поддерживать порядок, делая комнату максимально комфортной для отдыха." latitude="" heading="0" nodeid="node4" datetime="23.09.2025 16:06" longitude="" customnodeid="" comment="" author="" source="" tags=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label backgroundcolor="0x000000" background="0" borderalpha="1" wordwrap="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" borderradius="0" textalpha="1" border="0"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1" enabled="1" zoomafterinfov="140" softedge="0" zoomout="0" delay="none" zoomspeed="2" zoomin="7" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextfullscreen="1" invertcontrol="1" dblclickfullscreen="1" rubberband="1" lockedkeyboard="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="1" contextvr="1" contextprojections="0" hideabout="1" sensitivity="13" simulatemass="1" speedwheel="3" lockedwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input flat="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" levelingroll="0" levelbias="0.400" width="1024" levelbiashidpi="1.000" overlap="1" height="768" levelingpitch="0">
+      <level predecode="0" height="768" width="1024" preload="0"/>
+      <level predecode="0" height="384" width="512" preload="0"/>
+      <level predecode="1" height="192" width="256" preload="0"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="300" pan="0" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" scaletofit="0" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata copyright="" description="" title="Удобный раскладной диван-кровать в отличном состоянии, сочетает комфорт и практичность." info="Этот диван легко раскладывается в полноценную двуспальную кровать, создавая удобное спальное место. Он в отличном состоянии и оснащён вместительной нишей для хранения постельного белья. Такое решение помогает экономить пространство и поддерживать порядок, делая комнату максимально комфортной для отдыха." latitude="" heading="0" nodeid="node5" datetime="27.08.2025 18:33" longitude="" customnodeid="" comment="" author="" source="" tags=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label backgroundcolor="0x000000" background="0" borderalpha="1" wordwrap="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" borderradius="0" textalpha="1" border="0"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1" enabled="1" zoomafterinfov="140" softedge="0" zoomout="0" delay="none" zoomspeed="2" zoomin="7" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextfullscreen="1" invertcontrol="1" dblclickfullscreen="1" rubberband="1" lockedkeyboard="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="1" contextvr="1" contextprojections="0" hideabout="1" sensitivity="13" simulatemass="1" speedwheel="3" lockedwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" author="" copyright="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
