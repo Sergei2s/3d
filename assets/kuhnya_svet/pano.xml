@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node18" apprev="21010" appversion="7.1.11">
+  <panorama hideabout="1" id="node18">
+    <input width="2048" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" cylinder="1" height="1536" levelingpitch="0" overlap="1" flat="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" preload="0" height="1536"/>
+      <level predecode="0" width="1024" preload="0" height="768"/>
+      <level predecode="0" width="512" preload="0" height="384"/>
+      <level predecode="1" width="256" preload="0" height="192"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" fov="138.08"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="330" tilt="90" pan="360" fov="140" fovfisheye="360" scaletofit="0"/>
+    </view>
+    <userdata author="" source="" info="Рабочая зона залита ярким, равномерным освещением, что делает процесс готовки максимально удобным и комфортным. Обеденный стол превращается в тёплый центр притяжения — здесь приятно завтракать утром и собираться всей семьёй за ужином вечером.&#xa;&#xa;Особое внимание уделено деталям: даже кухонный гарнитур оснащён подсветкой внутри шкафчиков, благодаря чему всё содержимое всегда видно без лишних усилий. Больше не нужно искать продукты или посуду в полутьме — свет открывает каждую полку и подчёркивает эстетику интерьера.&#xa;&#xa;Такое освещение не только делает кухню практичной, но и создаёт атмосферу современного и продуманного до мелочей пространства, где каждая деталь работает на комфорт хозяев и их гостей." datetime="29.08.2025 17:00" longitude="" heading="0" copyright="" description="" nodeid="node18" tags="" comment="" latitude="" title="Эта кухня наполнена светом — для удобной работы, душевных завтраков и долгих вечеров за столом" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label background="0" width="180" border="0" backgroundcolor="0xffffff" borderradius="0" borderalpha="1" enabled="1" wordwrap="1" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomoutpause="0" softedge="0" enabled="0" delay="none" zoomafterinfov="140" blendcolor="0x000000" zoomafteroutfov="40" zoomspeed="0.01" zoomout="0" zoomfov="40" type="diptocolor" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" zoomcentercursor="1" speedwheel="3" simulatemass="1" sensitivity="10" invertwheel="1" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" rubberband="1" hideabout="1" lockedmouse="0" dblclickfullscreen="1" invertcontrol="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" copyright="" description="" tags="" comment="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

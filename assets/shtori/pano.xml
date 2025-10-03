@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" start="node5" hassounds="0" appversion="7.1.11">
+  <panorama hideabout="1" id="node5">
+    <input leveltilesize="510" levelbiashidpi="1.000" flat="1" width="2048" levelingpitch="0" levelingroll="0" overlap="1" levelbias="0.400" height="1536" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1">
+      <level predecode="0" preload="0" height="1536" width="2048"/>
+      <level predecode="0" preload="0" height="768" width="1024"/>
+      <level predecode="0" preload="0" height="384" width="512"/>
+      <level predecode="1" preload="0" height="192" width="256"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" tags="" copyright="" datetime="" info="" heading="0" nodeid="node5" description="" title="В комнате установлены широкие окна, которые наполняют пространство естественным светом. Лёгкий тюль на окнах создаёт ощущение уюта и лёгкости. Благодаря солнечной стороне квартира всегда светлая, тёплая и по-домашнему комфортная." longitude="" customnodeid="" latitude="" source="" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label border="0" textcolor="0x000000" enabled="1" width="180" backgroundalpha="1" background="0" backgroundcolor="0x000000" textalpha="1" height="20" borderradius="0" borderalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="mesh" blendtime="0" zoomout="0" enabled="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomfov="40" zoomin="7" softedge="0" delay="none" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="3" lockedwheel="0" contextprojections="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" sensitivity="13" simulatemass="1" rubberband="1" invertcontrol="1" contextvr="1" invertwheel="1" dblclickfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input leveltilesize="510" levelbiashidpi="1.000" flat="1" width="4096" levelingpitch="0" levelingroll="0" overlap="1" levelbias="0.400" height="3072" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" cylinder="1">
+      <level predecode="0" preload="0" height="3072" width="4096"/>
+      <level predecode="0" preload="0" height="1536" width="2048"/>
+      <level predecode="0" preload="0" height="768" width="1024"/>
+      <level predecode="0" preload="0" height="384" width="512"/>
+      <level predecode="1" preload="0" height="192" width="256"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata comment="" tags="" copyright="" datetime="27.08.2025 20:45" info="" heading="0" nodeid="node4" description="" title="Плотные шторы из качественной ткани надёжно защищают от солнечного света и посторонних взглядов. Днём они сохраняют прохладу в комнате, а ночью обеспечивают комфортный сон. Стильно и практично — удобное решение для ежедневного пользования." longitude="" customnodeid="" latitude="" source="" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label border="0" textcolor="0x000000" enabled="1" width="180" backgroundalpha="1" background="0" backgroundcolor="0x000000" textalpha="1" height="20" borderradius="0" borderalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="mesh" blendtime="0" zoomout="0" enabled="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomfov="40" zoomin="7" softedge="0" delay="none" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="3" lockedwheel="0" contextprojections="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" sensitivity="13" simulatemass="1" rubberband="1" invertcontrol="1" contextvr="1" invertwheel="1" dblclickfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" author="" comment="" tags="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" apprev="21010" hassounds="0" appversion="7.1.11">
+  <panorama id="node5" hideabout="1">
+    <input cylinder="1" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" height="1536" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" flat="1" levelbias="0.400" width="2048" overlap="1" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="1536"/>
+      <level predecode="0" preload="0" width="1024" height="768"/>
+      <level predecode="0" preload="0" width="512" height="384"/>
+      <level predecode="1" preload="0" width="256" height="192"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="0" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" tags="" source="" comment="" nodeid="node5" heading="0" datetime="23.09.2025 14:53" latitude="" copyright="" info="" customnodeid="" title="Обратите внимание на микроволновку. Она не просто чистая и без посторонних запахов, что очень важно. Она оснащена целым набором функций для быстрого и удобного приготовления ваших любимых блюд." description=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" backgroundcolor="0x000000" backgroundalpha="1" height="20" textalpha="1" width="180" textcolor="0x000000" border="0" background="0" wordwrap="1" borderradius="0" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" type="mesh" delay="none" zoomafteroutfov="40" blendtime="0" zoomafterinfov="140" zoomin="7"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="13" simulatemass="1" rubberband="1" invertwheel="1" speedwheel="3" invertcontrol="1" dblclickfullscreen="1" lockedmouse="0" contextprojections="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input cylinder="1" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" height="1536" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" flat="1" levelbias="0.400" width="2048" overlap="1" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="1536"/>
+      <level predecode="0" preload="0" width="1024" height="768"/>
+      <level predecode="0" preload="0" width="512" height="384"/>
+      <level predecode="1" preload="0" width="256" height="192"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="0" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" tags="" source="" comment="" nodeid="node7" heading="0" datetime="23.09.2025 14:53" latitude="" copyright="" info="" customnodeid="" title="Обратите внимание на микроволновку. Она не просто чистая и без посторонних запахов, что очень важно. Она оснащена целым набором функций для быстрого и удобного приготовления ваших любимых блюд." description=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" backgroundcolor="0x000000" backgroundalpha="1" height="20" textalpha="1" width="180" textcolor="0x000000" border="0" background="0" wordwrap="1" borderradius="0" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" type="mesh" delay="none" zoomafteroutfov="40" blendtime="0" zoomafterinfov="140" zoomin="7"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="13" simulatemass="1" rubberband="1" invertwheel="1" speedwheel="3" invertcontrol="1" dblclickfullscreen="1" lockedmouse="0" contextprojections="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input cylinder="1" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" height="1536" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" flat="1" levelbias="0.400" width="2048" overlap="1" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="1536"/>
+      <level predecode="0" preload="0" width="1024" height="768"/>
+      <level predecode="0" preload="0" width="512" height="384"/>
+      <level predecode="1" preload="0" width="256" height="192"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="0" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" tags="" source="" comment="" nodeid="node6" heading="0" datetime="27.08.2025 18:14" latitude="" copyright="" info="" customnodeid="" title="Обратите внимание на микроволновку. Она не просто чистая и без посторонних запахов, что очень важно. Она оснащена целым набором функций для быстрого и удобного приготовления ваших любимых блюд." description=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" backgroundcolor="0x000000" backgroundalpha="1" height="20" textalpha="1" width="180" textcolor="0x000000" border="0" background="0" wordwrap="1" borderradius="0" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" type="mesh" delay="none" zoomafteroutfov="40" blendtime="0" zoomafterinfov="140" zoomin="7"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="13" simulatemass="1" rubberband="1" invertwheel="1" speedwheel="3" invertcontrol="1" dblclickfullscreen="1" lockedmouse="0" contextprojections="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" tags="" comment="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
