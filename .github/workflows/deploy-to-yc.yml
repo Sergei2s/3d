@@ -2,8 +2,8 @@ name: Deploy to Yandex Object Storage
 
 on:
   push:
-    branches: [ main ]         # <- поменяй на твою ветку, если нужно
-  workflow_dispatch:           # дает кнопку "Run workflow" в UI
+    branches: [ main ]      # <- укажите вашу ветку, если не main
+  workflow_dispatch:        # позволяет запускать вручную
 
 jobs:
   deploy:
@@ -19,13 +19,12 @@ jobs:
           pip install awscli
 
       - name: Sync files to Yandex Object Storage
-       env:
-  AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
-  AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
-
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
         run: |
-          SOURCE_DIR="./"                    # <- поменяй, если нужная папка другая, например "./3d"
-          BUCKET="3dt"           # <- замени на имя своего бакета
+          SOURCE_DIR="./3d"                    # <- поменяйте, если папка другая (например "./3d")
+          BUCKET="3dt"           # <- замените на имя вашего бакета
           ENDPOINT="https://storage.yandexcloud.net"
 
           echo ">>> Debug: show working dir and list"
@@ -41,3 +40,4 @@ jobs:
           aws s3 sync "$SOURCE_DIR" "s3://$BUCKET" --endpoint-url "$ENDPOINT" --acl public-read \
             --exclude ".git/*" --exclude ".github/*"
           echo ">>> Sync finished"
+
