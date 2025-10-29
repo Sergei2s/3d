@@ -22,7 +22,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.YCAJEEsdYT9r1rnuJvqO_3tin }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.YCM9nPYa2NtyXBbXYx_QyLFyw2WZpdbRW7_NBkG2 }}
         run: |
-          SOURCE_DIR="./3d"             # <- Поменяйте, если ваша папка называется иначе
+          SOURCE_DIR="./"             # <- Поменяйте, если ваша папка называется иначе
           BUCKET="3dt"          # <- Замените на имя вашего бакета
           ENDPOINT="https://storage.yandexcloud.net"
 
