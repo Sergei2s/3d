@@ -20,11 +20,11 @@ jobs:
 
       - name: Sync files to Yandex Object Storage
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.YCAJEEsdYT9r1rnuJvqO_3tin }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.YCM9nPYa2NtyXBbXYx_QyLFyw2WZpdbRW7_NBkG2 }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.YCAJE9tL_7SdXo7rgp4DP92rQ }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.YCPLUfKgIZBXMhZ-whpN9uLbDy7SRt_YADsf8AUg }}
         run: |
           SOURCE_DIR="./"                    # <- поменяй, если нужная папка другая, например "./3d"
-          BUCKET="my-tours-bucket"           # <- замени на имя своего бакета
+          BUCKET="3dt"           # <- замени на имя своего бакета
           ENDPOINT="https://storage.yandexcloud.net"
 
           echo ">>> Debug: show working dir and list"
