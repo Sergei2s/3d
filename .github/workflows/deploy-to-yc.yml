@@ -2,12 +2,13 @@ name: Deploy to Yandex Object Storage
 
 on:
   push:
-    branches: [ main ]   # <- если у вас другая ветка, замените на вашу (например master)
-  workflow_dispatch:     # даёт кнопку "Run workflow" в UI
+    branches: [ main ]         # <- поменяй на твою ветку, если нужно
+  workflow_dispatch:           # дает кнопку "Run workflow" в UI
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,14 +23,20 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.YCAJEEsdYT9r1rnuJvqO_3tin }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.YCM9nPYa2NtyXBbXYx_QyLFyw2WZpdbRW7_NBkG2 }}
         run: |
-          SOURCE_DIR="./"             # <- Поменяйте, если ваша папка называется иначе
-          BUCKET="3dt"          # <- Замените на имя вашего бакета
+          SOURCE_DIR="./"                    # <- поменяй, если нужная папка другая, например "./3d"
+          BUCKET="my-tours-bucket"           # <- замени на имя своего бакета
           ENDPOINT="https://storage.yandexcloud.net"
+
+          echo ">>> Debug: show working dir and list"
+          pwd
+          ls -la
 
           if [ ! -d "$SOURCE_DIR" ]; then
             echo "ERROR: Source directory $SOURCE_DIR not found"
-            ls -la
             exit 1
           fi
 
-          aws s3 sync "$SOURCE_DIR" "s3://$BUCKET" --endpoint-url "$ENDPOINT" --acl public-read
+          echo ">>> Starting sync to s3://$BUCKET"
+          aws s3 sync "$SOURCE_DIR" "s3://$BUCKET" --endpoint-url "$ENDPOINT" --acl public-read \
+            --exclude ".git/*" --exclude ".github/*"
+          echo ">>> Sync finished"
