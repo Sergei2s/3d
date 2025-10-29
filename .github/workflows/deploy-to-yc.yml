@@ -19,9 +19,10 @@ jobs:
           pip install awscli
 
       - name: Sync files to Yandex Object Storage
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.YCAJE9tL_7SdXo7rgp4DP92rQ }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.YCPLUfKgIZBXMhZ-whpN9uLbDy7SRt_YADsf8AUg }}
+       env:
+  AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
+
         run: |
           SOURCE_DIR="./"                    # <- поменяй, если нужная папка другая, например "./3d"
           BUCKET="3dt"           # <- замени на имя своего бакета
