@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-		<title>3d &#1101;&#1082;&#1089;&#1082;&#1091;&#1088;&#1089;&#1080;&#1103; &#1087;&#1086; &#1082;&#1074;&#1072;&#1088;&#1090;&#1080;&#1088;&#1077;</title>
+		<title></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		<meta property="og:title" content="3d &#1101;&#1082;&#1089;&#1082;&#1091;&#1088;&#1089;&#1080;&#1103; &#1087;&#1086; &#1082;&#1074;&#1072;&#1088;&#1090;&#1080;&#1088;&#1077;">
+		<meta property="og:title" content="">
 		<meta property="og:description" content="">
 		<meta name="mobile-web-app-capable" content="yes" />
 		<meta property="og:image" content="preview.jpg">
@@ -36,12 +36,10 @@
 	</head>
 	<body>
 <!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
-		<script type="text/javascript" src="pano2vr_player.js?ts=62917463">
+		<script type="text/javascript" src="pano2vr_player.js?ts=48934200">
 		</script>
-		<script type="text/javascript" src="skin.js?ts=62917463">
+		<script type="text/javascript" src="skin.js?ts=48934200">
 		</script>
-		<script src="https://www.youtube.com/iframe_api"></script>
-		<script src="https://player.vimeo.com/api/player.js"></script>
 		<script src="3rdparty/lottie/lottie.min.js"></script>
 		<div id="container" style="width:100%;height:100%;overflow:hidden;">
 		<br>Loading...<br><br>
@@ -92,12 +90,12 @@
 			pano=new pano2vrPlayer("container");
 			pano.startNode = startNode;
 			pano.startView = startView;
-			pano.setQueryParameter("ts=62917463")
+			pano.setQueryParameter("ts=48934200")
 			// add the skin object
 			skin=new pano2vrSkin(pano);
 			// load the configuration
 			window.addEventListener("load", function() {
-				pano.readConfigUrlAsync("pano.xml?ts=62917463");
+				pano.readConfigUrlAsync("pano.xml?ts=48934200");
 			});
 			if (window.navigator.userAgent.match(/Safari/i)) {
 				// fix for white borders, rotation on iPhone
