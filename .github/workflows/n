@@ -1,0 +1,44 @@
+name: Deploy to Yandex Object Storage
+
+on:
+  push:
+    branches: [ main ]         # <- поменяй на твою ветку, если нужно
+  workflow_dispatch:           # дает кнопку "Run workflow" в UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install awscli
+        run: |
+          python -m pip install --upgrade pip
+          pip install awscli
+
+      - name: Sync files to Yandex Object Storage
+       env:
+  AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
+
+        run: |
+          SOURCE_DIR="./"                    # <- поменяй, если нужная папка другая, например "./3d"
+          BUCKET="3dt"           # <- замени на имя своего бакета
+          ENDPOINT="https://storage.yandexcloud.net"
+
+          echo ">>> Debug: show working dir and list"
+          pwd
+          ls -la
+
+          if [ ! -d "$SOURCE_DIR" ]; then
+            echo "ERROR: Source directory $SOURCE_DIR not found"
+            exit 1
+          fi
+
+          echo ">>> Starting sync to s3://$BUCKET"
+          aws s3 sync "$SOURCE_DIR" "s3://$BUCKET" --endpoint-url "$ENDPOINT" --acl public-read \
+            --exclude ".git/*" --exclude ".github/*"
+          echo ">>> Sync finished"
+ 
