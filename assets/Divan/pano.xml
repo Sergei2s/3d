@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node2" appversion="7.1.11" apprev="21010">
+  <panorama id="node2" hideabout="1">
+    <input height="4000" levelbias="0.400" levelingroll="0" cylinder="1" leveltilesize="510" width="6000" overlap="1" flat="1" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" levelingpitch="0">
+      <level width="6000" height="4000" preload="0" predecode="0"/>
+      <level width="3000" height="2000" preload="0" predecode="0"/>
+      <level width="1500" height="1000" preload="0" predecode="0"/>
+      <level width="750" height="500" preload="0" predecode="0"/>
+      <level width="375" height="250" preload="1" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="300" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="0"/>
+    </view>
+    <userdata info="Раскладной диван, который быстро и без лишних усилий превращается в двуспальную кровать — отличное решение для комфортного ночлега и удобной дневной зоны. Стильный и практичный: занимает немного места в сложенном виде и предоставляет просторную, ровную спальную поверхность после раскладывания." author="" latitude="" customnodeid="" copyright="" source="" description="" tags="" heading="0" title="Раскладной диван — превращается в полноценную кровать" comment="" longitude="" datetime="19.10.2025 20:05" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label borderradius="1" height="20" border="1" textalpha="1" width="180" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="40" delay="none" zoomafterinfov="140" zoomin="0" type="crossdissolve" blendtime="1" zoomspeed="0.01" zoomafteroutfov="40" softedge="0" enabled="0" zoomoutpause="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" simulatemass="1" speedwheel="3" contextprojections="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" invertcontrol="1" sensitivity="8" hideabout="1" lockedkeyboardzoom="0" rubberband="1" lockedmouse="0" invertwheel="1" contextvr="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="4000" levelbias="0.400" levelingroll="0" cylinder="1" leveltilesize="510" width="6000" overlap="1" flat="1" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" levelingpitch="0">
+      <level width="6000" height="4000" preload="0" predecode="0"/>
+      <level width="3000" height="2000" preload="0" predecode="0"/>
+      <level width="1500" height="1000" preload="0" predecode="0"/>
+      <level width="750" height="500" preload="0" predecode="0"/>
+      <level width="375" height="250" preload="1" predecode="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="300" tilt="0"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="0"/>
+    </view>
+    <userdata info="Раскладной диван, который быстро и без лишних усилий превращается в двуспальную кровать — отличное решение для комфортного ночлега и удобной дневной зоны. Стильный и практичный: занимает немного места в сложенном виде и предоставляет просторную, ровную спальную поверхность после раскладывания." author="" latitude="" customnodeid="" copyright="" source="" description="" tags="" heading="0" title="Раскладной диван — превращается в полноценную кровать" comment="" longitude="" datetime="19.10.2025 20:05" nodeid="node3"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label borderradius="1" height="20" border="1" textalpha="1" width="180" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="40" delay="none" zoomafterinfov="140" zoomin="0" type="crossdissolve" blendtime="1" zoomspeed="0.01" zoomafteroutfov="40" softedge="0" enabled="0" zoomoutpause="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" simulatemass="1" speedwheel="3" contextprojections="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" invertcontrol="1" sensitivity="8" hideabout="1" lockedkeyboardzoom="0" rubberband="1" lockedmouse="0" invertwheel="1" contextvr="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" title="" comment="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
