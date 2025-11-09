@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" hassounds="0" start="node2" appversion="7.1.11">
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0" width="6000" height="4000" flat="1" cylinder="1" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" width="6000" height="4000" preload="0"/>
+      <level predecode="0" width="3000" height="2000" preload="0"/>
+      <level predecode="0" width="1500" height="1000" preload="0"/>
+      <level predecode="0" width="750" height="500" preload="0"/>
+      <level predecode="1" width="375" height="250" preload="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" tags="" latitude="" longitude="" heading="0" author="" nodeid="node2" datetime="19.10.2025 19:36" title="Над столом — полка с мощным светом" info="Удобная настенная полка с мощной встроенной подсветкой — практичное решение для тех, кто много работает за столом. Полка аккуратно хранит книги и принадлежности, а яркий светодиод равномерно освещает рабочую поверхность, устраняя тени и уменьшая нагрузку на глаза. Отлично подходит для домашних заданий школьникам/студентам, дистанционным работникам и всем, кому нужен комфортный свет прямо над рабочим местом — даже при выключенном основном свете." copyright="" description="" comment="" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label border="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" width="180" textalpha="1" height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafteroutfov="40" delay="none" enabled="0" blendtime="1" zoomfov="40" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomoutpause="0" zoomspeed="0.01" zoomafterinfov="140"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="1" lockedmouse="0" dblclickfullscreen="0" hideabout="1" contextvr="1" rubberband="1" lockedkeyboard="0" invertcontrol="1" simulatemass="1" contextprojections="0" speedwheel="3" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0" width="6000" height="4000" flat="1" cylinder="1" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" width="6000" height="4000" preload="0"/>
+      <level predecode="0" width="3000" height="2000" preload="0"/>
+      <level predecode="0" width="1500" height="1000" preload="0"/>
+      <level predecode="0" width="750" height="500" preload="0"/>
+      <level predecode="1" width="375" height="250" preload="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" tags="" latitude="" longitude="" heading="0" author="" nodeid="node3" datetime="19.10.2025 19:37" title="Над столом — полка с мощным светом" info="Удобная настенная полка с мощной встроенной подсветкой — практичное решение для тех, кто много работает за столом. Полка аккуратно хранит книги и принадлежности, а яркий светодиод равномерно освещает рабочую поверхность, устраняя тени и уменьшая нагрузку на глаза. Отлично подходит для домашних заданий школьникам/студентам, дистанционным работникам и всем, кому нужен комфортный свет прямо над рабочим местом — даже при выключенном основном свете." copyright="" description="" comment="" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label border="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" width="180" textalpha="1" height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafteroutfov="40" delay="none" enabled="0" blendtime="1" zoomfov="40" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomoutpause="0" zoomspeed="0.01" zoomafterinfov="140"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="1" lockedmouse="0" dblclickfullscreen="0" hideabout="1" contextvr="1" rubberband="1" lockedkeyboard="0" invertcontrol="1" simulatemass="1" contextprojections="0" speedwheel="3" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0" width="6000" height="4000" flat="1" cylinder="1" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" width="6000" height="4000" preload="0"/>
+      <level predecode="0" width="3000" height="2000" preload="0"/>
+      <level predecode="0" width="1500" height="1000" preload="0"/>
+      <level predecode="0" width="750" height="500" preload="0"/>
+      <level predecode="1" width="375" height="250" preload="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" tags="" latitude="" longitude="" heading="0" author="" nodeid="node4" datetime="19.10.2025 19:37" title="Над столом — полка с мощным светом" info="Удобная настенная полка с мощной встроенной подсветкой — практичное решение для тех, кто много работает за столом. Полка аккуратно хранит книги и принадлежности, а яркий светодиод равномерно освещает рабочую поверхность, устраняя тени и уменьшая нагрузку на глаза. Отлично подходит для домашних заданий школьникам/студентам, дистанционным работникам и всем, кому нужен комфортный свет прямо над рабочим местом — даже при выключенном основном свете." copyright="" description="" comment="" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label border="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" width="180" textalpha="1" height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafteroutfov="40" delay="none" enabled="0" blendtime="1" zoomfov="40" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomoutpause="0" zoomspeed="0.01" zoomafterinfov="140"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="1" lockedmouse="0" dblclickfullscreen="0" hideabout="1" contextvr="1" rubberband="1" lockedkeyboard="0" invertcontrol="1" simulatemass="1" contextprojections="0" speedwheel="3" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0" width="6000" height="4000" flat="1" cylinder="1" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" width="6000" height="4000" preload="0"/>
+      <level predecode="0" width="3000" height="2000" preload="0"/>
+      <level predecode="0" width="1500" height="1000" preload="0"/>
+      <level predecode="0" width="750" height="500" preload="0"/>
+      <level predecode="1" width="375" height="250" preload="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" tags="" latitude="" longitude="" heading="0" author="" nodeid="node5" datetime="19.10.2025 19:39" title="Над столом — полка с мощным светом" info="Удобная настенная полка с мощной встроенной подсветкой — практичное решение для тех, кто много работает за столом. Полка аккуратно хранит книги и принадлежности, а яркий светодиод равномерно освещает рабочую поверхность, устраняя тени и уменьшая нагрузку на глаза. Отлично подходит для домашних заданий школьникам/студентам, дистанционным работникам и всем, кому нужен комфортный свет прямо над рабочим местом — даже при выключенном основном свете." copyright="" description="" comment="" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label border="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" width="180" textalpha="1" height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafteroutfov="40" delay="none" enabled="0" blendtime="1" zoomfov="40" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomoutpause="0" zoomspeed="0.01" zoomafterinfov="140"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="1" lockedmouse="0" dblclickfullscreen="0" hideabout="1" contextvr="1" rubberband="1" lockedkeyboard="0" invertcontrol="1" simulatemass="1" contextprojections="0" speedwheel="3" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0" width="6000" height="4000" flat="1" cylinder="1" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" width="6000" height="4000" preload="0"/>
+      <level predecode="0" width="3000" height="2000" preload="0"/>
+      <level predecode="0" width="1500" height="1000" preload="0"/>
+      <level predecode="0" width="750" height="500" preload="0"/>
+      <level predecode="1" width="375" height="250" preload="1"/>
+      <preview color="0x000000"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="300" tilt="0" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="0" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" tags="" latitude="" longitude="" heading="0" author="" nodeid="node1" datetime="19.10.2025 19:35" title="Над столом — полка с мощным светом" info="Удобная настенная полка с мощной встроенной подсветкой — практичное решение для тех, кто много работает за столом. Полка аккуратно хранит книги и принадлежности, а яркий светодиод равномерно освещает рабочую поверхность, устраняя тени и уменьшая нагрузку на глаза. Отлично подходит для домашних заданий школьникам/студентам, дистанционным работникам и всем, кому нужен комфортный свет прямо над рабочим местом — даже при выключенном основном свете." copyright="" description="" comment="" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label border="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" width="180" textalpha="1" height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafteroutfov="40" delay="none" enabled="0" blendtime="1" zoomfov="40" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomoutpause="0" zoomspeed="0.01" zoomafterinfov="140"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="1" lockedmouse="0" dblclickfullscreen="0" hideabout="1" contextvr="1" rubberband="1" lockedkeyboard="0" invertcontrol="1" simulatemass="1" contextprojections="0" speedwheel="3" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="" copyright="" description="" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

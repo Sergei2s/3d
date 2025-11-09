@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" apprev="21010" start="node10" appversion="7.1.11">
+  <panorama id="node10" hideabout="1">
+    <input leveltilesize="510" width="3749" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" height="3749" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3749" predecode="0" width="3749"/>
+      <level preload="0" height="1874" predecode="0" width="1874"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="136.926" pan="-5.93746" tilt="-0.907295"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="" nodeid="node10" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Светлая прихожая" copyright="" comment="" info="Наше знакомство с квартирой начинается с невероятно светлой и функциональной прихожей. Здесь продумана каждая деталь: от огромного зеркала в полный рост, визуально расширяющего пространство, до удобных комодов и большого шкафа для верхней одежды. Всё организовано так, чтобы поддерживать идеальный порядок. &#xa;Отдельным преимуществом является выделенная хозяйственная зона, которую при необходимости легко можно использовать как дополнительный гардероб.  &#xa;А уникальная сквозная полка над проходом в кухню — практичное решение для хранения сезонных вещей. &#xa;Дополнительное спокойствие обеспечивает двойная входная группа — металлическая дверь снаружи и деревянная внутри." author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Глубокое и вместительное место для сезонных вещей" target="" skinid="ht_image" url="images/pol_koridor.png" pan="-73.94" description="Над проходом расположено глубокое вместительное отделение с закрывающимися дверцами — отличное место для сезонного хранения. Храните санки, ледянки, коньки, самокаты и другие крупные предметы аккуратно и в порядке, не загромождая основные зоны квартиры." tilt="57.43"/>
+      <hotspot id="Point02" title="Шкаф для хозяйственных нужд" target="" skinid="ht_image" url="images/shkaf.png" pan="-59.86" description="Всё аккуратно организовано и всегда под рукой — удобно для быстрой уборки или мелкого ремонта." tilt="-5.81"/>
+      <hotspot id="Point03" title="Комод с полочками" target="" skinid="ht_image" url="images/IMG_20251019_160701 2.jpg" pan="-335.13" description="" tilt="-7.48"/>
+      <hotspot id="Point04" title="Хранение вещей " target="_blank" skinid="ht_gallery" url="assets\shifoner\index.html&quot;" pan="-342.32" description="shifoner" tilt="6.52"/>
+      <hotspot id="Point05" title="Двойная входная дверь" target="" skinid="ht_image" url="images/IMG_20251028_171414.jpg" pan="-169.76" description="Безопасность и тишина в одном решении" tilt="-1.89"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node8}" pan="-80.16" target="-1.0/-12.4/136.9" id="Point06" title="Кухня для семейного уюта" tilt="-22.68" customimagewidth="34" distance3D="194.311" description="" customimageheight="23" use3D="0"/>
+      <hotspot customimage="media/long.gif" fov="8" skinid="ht_node" url="{node12}" pan="-92.58" target="" id="Point07" title="Санузел со скрытым местом для хранения " tilt="-5.81" customimagewidth="29" distance3D="207.36" description="" customimageheight="36" use3D="0"/>
+      <hotspot customimage="media/bedroom.gif" fov="8" skinid="ht_node" url="{node14}" pan="-92.5" target="" id="Point08" title="Ванная комната с чугунной ванной" tilt="4.06" customimagewidth="29" distance3D="207.36" description="" customimageheight="33" use3D="0"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node23}" pan="-353.09" target="29.7/-15.6/126.6" id="Point09" title="Просторный зал" tilt="-19.39" customimagewidth="35" distance3D="200.026" description="" customimageheight="24" use3D="0"/>
+      <hotspot customimage="media/2.gif" fov="9" skinid="ht_node" url="{node19}" pan="-13.21" target="54.1/-28.6/126.6" id="Point10" title="Спальня у входа" tilt="-7.59" customimagewidth="35" distance3D="222.359" description="" customimageheight="28" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-326.040" tilt="32.350" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/prihoshaya.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input leveltilesize="510" width="3749" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.webp" height="3749" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3749" predecode="0" width="3749"/>
+      <level preload="0" height="1874" predecode="0" width="1874"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="136.748" pan="61.0143" tilt="-0.608738"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="" nodeid="node19" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Спальня у входа" copyright="" comment="" info="Эта спальня расположена максимально близко к выходу. В ней установлен новый раскладной диван, который легко превращается в просторную двуспальную кровать.  &#xa;Для хранения вещей предусмотрен вместительный шкаф с перекладиной для вешалок и полками, позволяющими аккуратно организовать гардероб.  &#xa;Комнату дополняют удобный комод под телевизор и компактная тумбочка с выдвижными ящиками. &#xa;Яркое освещение делает пространство светлым и визуально более просторным в любое время суток.  &#xa;Всё обустроено так, чтобы вы могли сразу заселиться и наслаждаться комфортом." author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Большой комод с телевизором Samsung " target="" skinid="ht_image" url="images/kom.png" pan="-43.11" description="Просторный комод как устойчивая подставка для ТВ — всё для комфортного просмотра и аккуратного хранения." tilt="-28.74"/>
+      <hotspot id="Point02" title="Мини комод" target="" skinid="ht_image" url="images/rom.png" pan="-183.15" description="Выдвижные ящики — для белья, аксессуаров и мелочей, которые лучше держать в скрытом хранении." tilt="-28"/>
+      <hotspot id="Point03" title="Шифоньер с двумя зонами" target="" skinid="ht_image" url="images/shk.png" pan="-204.45" description="Зона с полочками — идеальна для свитеров, футболок, сумок и сезонных вещей." tilt="-9.36"/>
+      <hotspot id="Point04" title="Шифоньер с двумя зонами" target="" skinid="ht_image" url="images/shka.png" pan="-228.04" description="Отдельная зона с перекладиной для вешалок — удобно хранить рубашки, платья, пиджаки и верхнюю одежду." tilt="-7.68"/>
+      <hotspot customimage="media/right_opacity.gif" fov="7" skinid="ht_node" url="{node10}" pan="-155.2" target="" id="Point06" title="Светлая прихожая" tilt="-3.08" customimagewidth="38" distance3D="310.647" description="" customimageheight="30" use3D="0"/>
+      <hotspot customimage="media/left_opacity.gif" fov="7" skinid="ht_node" url="{node23}" pan="-166.49" target="" id="Point07" title="Просторный зал" tilt="-3.09" customimagewidth="38" distance3D="310.647" description="" customimageheight="30" use3D="0"/>
+      <hotspot id="Point08" title="Дополнительный свет" target="" skinid="ht_info" url="" pan="-317.34" description="Ночник" tilt="23.53"/>
+      <hotspot customimage="media/sofa.gif" fov="10" skinid="ht_info" url="" pan="-293.65" target="" id="Point05" title="Раскладной диван" tilt="-23.86" customimagewidth="44" distance3D="251.461" description="Комфорт днём, уют ночью — стильное и практичное решение для любых задач." customimageheight="40" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-283.440" tilt="11.300" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/Blishnya_spalnya.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input leveltilesize="510" width="3749" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.webp" height="3749" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3749" predecode="0" width="3749"/>
+      <level preload="0" height="1874" predecode="0" width="1874"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="136.93" pan="38.89" tilt="-16.44"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fov="4" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="23.10.2025 17:14" nodeid="node23" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Просторный зал" copyright="" comment="" info="Главная особенность комнаты — большая и функциональная шкаф-стенка: в ней легко разместятся и повседневные вещи, и праздничный сервиз. &#xa;Центр пространства занимает удобный диван, который раскладывается в полноценную двуспальную кровать. Раскладное кресло IKEA при необходимости создаёт дополнительное спальное место.  &#xa;Вечера здесь будут наполнены яркими впечатлениями благодаря телевизору Samsung с Ultra HD (4K) и более чем 200 каналам телевидения. &#xa;За дверью аккуратно сложены гладильные принадлежности — они всегда готовы к использованию, не занимая при этом пространство. &#xa;Уютную атмосферу дополняет лёгкое кресло-качалка, а большой праздничный стол, который легко раскладывается, создан для того, чтобы собирать за ним друзей и близких. " author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Всё, что нужно для ухода за вещами, спрятано за дверью." target="" skinid="ht_image" url="images/IMG_8350.jpg" pan="-49.47" description="Всё расположено компактно, доступно и функционально — ничего не мешает и всегда на своём месте." tilt="-14.61"/>
+      <hotspot customimage="media/sofa.gif" fov="10" skinid="ht_gallery" url="assets\Divan\index.html" pan="-358.34" target="_blank" id="Point02" title="Раскладной диван" tilt="-29.02" customimagewidth="66" distance3D="377.192" description="Divan" customimageheight="61" use3D="0"/>
+      <hotspot id="Point03" title="Телевизор Samsung UHD 4K" target="_blank" skinid="ht_info" url="" pan="-296.66" description="Чёткое изображение, насыщенные цвета и Smart TV для комфортного отдыха." tilt="-6.99"/>
+      <hotspot id="Point04" title="Большая система хранения" target="" skinid="ht_image" url="images/IMG_8059.jpg" pan="-149.78" description="Функциональная стенка, рассчитанная на всю семью. В ней предусмотрено всё: от маленьких шкафчиков для мелочей и аксессуаров до больших секций для верхней и сезонной одежды. " tilt="-2.27"/>
+      <hotspot id="Point05" title="Уютное кресло-качалка" target="" skinid="ht_info" url="" pan="-95.49" description="Подходит для чтения, отдыха после работы или уютных вечеров с чашкой чая." tilt="-15.64"/>
+      <hotspot id="Point06" title="Кресло IKEA" target="" skinid="ht_info" url="" pan="-314.19" description="Кресло днём, кровать ночью — удобное решение для гостя или постоянного сна." tilt="-18.57"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node20}" pan="-78.88" target="27.9/-10.7/126.6" id="Point07" title="Уютная детская или рабочая комната" tilt="-24.74" customimagewidth="31" distance3D="177.166" description="" customimageheight="21" use3D="0"/>
+      <hotspot customimage="media/right_opacity.gif" fov="10" skinid="ht_node" url="{node10}" pan="-44.54" target="-91.5/-8.3/126.6" id="Point08" title="Светлая прихожая" tilt="-0.07" customimagewidth="27" distance3D="154.306" description="" customimageheight="22" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-2.930" tilt="16.200" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/zal.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input leveltilesize="510" width="3749" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.webp" height="3749" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3749" predecode="0" width="3749"/>
+      <level preload="0" height="1874" predecode="0" width="1874"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="148.118" pan="26.4038" tilt="-6.74689"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="" nodeid="node20" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Уютная детская или рабочая комната" copyright="" comment="" info="Эту комнату по праву можно назвать детской. Её главная особенность — подогреваемый тёплый пол под мягким длинноворсным ковром, который обеспечивает уют и безопасность в любое время года.  &#xa;Здесь установлена практичная детская кроватка IKEA и раскладное кресло, которое при необходимости легко превращается в дополнительное спальное место. &#xa;Сильной стороной комнаты является просторное рабочее место с массивным столом и удобной полкой, оборудованной яркой подсветкой. Это идеальный уголок для школьника, студента или взрослого, работающего с документами.  &#xa;Комната выходит на собственный застеклённый балкон — отличное место для утренней чашки кофе, хранения сезонных вещей или отдыха на свежем воздухе." author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Полочка с мощным освещением" target="_blank" skinid="ht_gallery" url="assets\Polka\index.html" pan="-329.74" description="Polka" tilt="-0.2"/>
+      <hotspot id="Point02" title="Подогрев пола с умной колонкой" target="_blank" skinid="ht_gallery" url="assets\podogrev\index.html" pan="-305.05" description="podogrev" tilt="-0.94"/>
+      <hotspot id="Point03" title="Балкон" target="_blank" skinid="ht_gallery" url="assets\Balkon\index.html" pan="-13.18" description="Balkon" tilt="1.41"/>
+      <hotspot id="Point04" title="Шкаф" target="" skinid="ht_info" url="" pan="-43.36" description="Комбинация закрытого хранения и витрины — удобно для игрушек, книг и памятных вещей." tilt="-8.02"/>
+      <hotspot id="Point05" title="Кресло IKEA" target="" skinid="ht_info" url="" pan="-89.85" description="Кресло днём, кровать ночью — удобное решение для гостя или постоянного сна." tilt="-32.99"/>
+      <hotspot id="Point06" title="Детская кроватка IKEA" target="" skinid="ht_info" url="" pan="-147.38" description="Отличное решение для семьи с ребёнком: безопасно, удобно и практично, при этом не занимает много места в комнате." tilt="-30.31"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node23}" pan="-196.11" target="74.8/-9.3/148.1" id="Point07" title="Просторный зал" tilt="-24.5" customimagewidth="38" distance3D="217.171" description="" customimageheight="26" use3D="0"/>
+      <hotspot customimage="media/left_opacity.gif" fov="7" skinid="ht_node" url="{node10}" pan="-200.6" target="-58.5/-7.7/126.6" id="Point08" title="Светлая прихожая" tilt="-3.12" customimagewidth="26" distance3D="212.548" description="" customimageheight="22" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-360.000" tilt="39.510" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/Dalnya_spalnya.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltilesize="510" width="5031" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.webp" height="5031" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="5031" predecode="0" width="5031"/>
+      <level preload="0" height="2515" predecode="0" width="2515"/>
+      <level preload="0" height="1257" predecode="0" width="1257"/>
+      <level preload="0" height="628" predecode="0" width="628"/>
+      <level preload="1" height="314" predecode="1" width="314"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="136.926" pan="5.84158" tilt="-10.6469"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="19.10.2025 15:15" nodeid="node12" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Санузел со скрытым местом для хранения " copyright="" comment="" info="Чистый и ухоженный санузел с удобным шкафчиком.  &#xa;За аккуратной дверцей расположены полки, идеально подходящие для хранения моющих средств, туалетной бумаги и других бытовых мелочей.  &#xa;Такое практичное решение позволяет поддерживать порядок, сохраняя всё необходимое под рукой, но вне зоны видимости. " author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Место для хранения" target="" skinid="ht_image" url="images/IMG_8344.jpg" pan="-0.18" description="Дополнительное пространство для хранения бытовой химии, запасов туалетной бумаги, тряпок и других мелочей." tilt="10.13"/>
+      <hotspot id="Point02" title="Шкаф для хозяйственных нужд" target="" skinid="ht_image" url="images/shkaf.png" pan="-125.05" description="Всё аккуратно организовано и всегда под рукой — удобно для быстрой уборки или мелкого ремонта." tilt="-8.02"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node8}" pan="-260.42" target="12.3/-32.7/100.0" id="Point03" title="Кухня для семейного уюта" tilt="-41.63" customimagewidth="56" distance3D="320.041" description="" customimageheight="37" use3D="0"/>
+      <hotspot customimage="media/bedroom.gif" fov="10" skinid="ht_node" url="{node14}" pan="-66.69" target="" id="Point04" title="Ванная комната с чугунной ванной" tilt="-1.37" customimagewidth="37" distance3D="211.456" description="" customimageheight="40" use3D="0"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node10}" pan="-103.86" target="-5.9/-0.9/126.6" id="Point05" title="Светлая прихожая" tilt="-33.16" customimagewidth="37" distance3D="211.456" description="" customimageheight="25" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-24.190" tilt="31.720" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/toulet.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltilesize="510" width="3749" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.webp" height="3749" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3749" predecode="0" width="3749"/>
+      <level preload="0" height="1874" predecode="0" width="1874"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="126.58" pan="95.8892" tilt="-9.43665"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="" nodeid="node14" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Ванная комната с чугунной ванной" copyright="" comment="" info="Погрузитесь в атмосферу полного релакса в этой массивной чугунной ванне, которая надолго сохраняет тепло воды, превращая каждое купание в настоящий ритуал отдыха. &#xa;Яркое основное освещение в сочетании с мягкой подсветкой над зеркалом создаёт идеальные условия для утренних сборов и вечернего уединения. &#xa;Лаконичный, но продуманный интерьер дополнен качественной сантехникой и стильной душевой лейкой, которая станет приятным акцентом этого пространства. " author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Чугунная ванна" target="" skinid="ht_info" url="" pan="-302.64" description="Классика, проверенная временем: прочная, устойчивая и сохраняет тепло дольше других." tilt="-61.55"/>
+      <hotspot customimage="media/right_opacity.gif" fov="7" skinid="ht_node" url="{node10}" pan="-70.22" target="" id="Point02" title="Светлая прихожая" tilt="-3.03" customimagewidth="38" distance3D="310.647" description="" customimageheight="30" use3D="0"/>
+      <hotspot customimage="media/_pystoi.gif" fov="7" skinid="ht_node" url="{node12}" pan="-107.73" target="" id="Point03" title="Санузел со скрытым местом для хранения " tilt="-18.68" customimagewidth="34" distance3D="277.948" description="" customimageheight="39" use3D="0"/>
+      <hotspot customimage="media/left_opacity.gif" fov="7" skinid="ht_node" url="{node8}" pan="-107.95" target="" id="Point04" title="Кухня для семейного уюта" tilt="-3.13" customimagewidth="38" distance3D="310.647" description="" customimageheight="30" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-288.390" tilt="23.210" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/Vannaya.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltilesize="510" width="3750" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" height="3750" levelingroll="0" levelbias="0.400" levelingpitch="0">
+      <level preload="0" height="3750" predecode="0" width="3750"/>
+      <level preload="0" height="1875" predecode="0" width="1875"/>
+      <level preload="0" height="937" predecode="0" width="937"/>
+      <level preload="1" height="468" predecode="1" width="468"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" pan="12.3285" tilt="-18.3316"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="" nodeid="node8" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Кухня для семейного уюта" copyright="" comment="" info="Перед вами — сердце квартиры, кухня, в которой продумано всё для комфортного приготовления пищи и приятного времяпрепровождения.  &#xa;Мощное основное освещение дополнено подсветкой над рабочей зоной и мойкой, создавая идеальные условия для готовки даже поздним вечером. Здесь всегда светло, уютно и всё под рукой. &#xa;Вся необходимая бытовая техника — идеально чистая и полностью готова к использованию. Вместительные шкафы и полки кухонного гарнитура позволяют удобно разместить продукты, посуду и бытовые мелочи, поддерживая порядок без лишних усилий.  &#xa;Это пространство создано для того, чтобы собираться за чашкой чая с семьёй, вести душевные разговоры и чувствовать себя по-настоящему дома." author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot id="Point01" title="Духовой шкаф с функцией гриля" target="" skinid="ht_image" url="images/IMG_20251019_161223.jpg" pan="-74.9" description="Универсальный и простой в использовании духовой шкаф для запекания и выпечки." tilt="-32.62"/>
+      <hotspot customimage="media/Microwave.png" fov="9.6999999999999993" skinid="ht_image" url="images/IMG_8343.jpg" pan="-276.62" target="" id="Point02" title="Чистая микроволновка Samsung" tilt="7.01" customimagewidth="40" distance3D="235.707" description="Для быстрго разогрева. Чисто, удобно и под рукой." customimageheight="27" use3D="0"/>
+      <hotspot customimage="media/image.gif" fov="2.6499999999999999" skinid="ht_image" url="images/fre.jpeg" pan="-240.14" target="" id="Point03" title="Двухкамерный холодильник Indesit (No Frost)" tilt="2.03" customimagewidth="17" distance3D="367.492" description="" customimageheight="32" use3D="0"/>
+      <hotspot id="Point04" title="Полочка над проходом" target="" skinid="ht_image" url="images/pol_kihn.png" pan="-203.25" description="Отличное место для крупной кухонной техники/посуды, запасов, солений, больших контейнеров, или упаковок продуктов." tilt="44.48"/>
+      <hotspot id="Point05" title="Кухонный рабочий стол" target="" skinid="ht_image" url="images/stolrab.png" pan="-103.89" description="Просторная рабочая поверхность и продуманное хранение для комфортной готовки." tilt="-35.43"/>
+      <hotspot id="Point06" title="Кухонный гарнитур с отсеком для посуды" target="" skinid="ht_image" url="images/garnitur.png" pan="-120.79" description="Отдельный отсек с полочкой специально для тарелок и стаканов." tilt="13.37"/>
+      <hotspot id="Point07" title="Кухонный гарнитур " target="" skinid="ht_image" url="images/garnitur2.png" pan="-90.78" description="Гарнитур облегчает процесс готовки и сервировки: всё необходимое под рукой, рабочая зона остаётся свободной и опрятной." tilt="14.46"/>
+      <hotspot id="Point08" title="Стол &quot;книжка&quot;" target="" skinid="ht_info" url="" pan="-348.55" description="Сейчас стол разложен. Его можно сложить и уменьшить размер стола в два раза." tilt="-40.5"/>
+      <hotspot customimage="media/long.gif" fov="8" skinid="ht_node" url="{node12}" pan="-186.65" target="" id="Point09" title="Санузел со скрытым местом для хранения " tilt="-8.74" customimagewidth="32" distance3D="228.811" description="" customimageheight="38" use3D="0"/>
+      <hotspot customimage="media/bedroom.gif" fov="8" skinid="ht_node" url="{node14}" pan="-186.76" target="" id="Point10" title="Ванная комната с чугунной ванной" tilt="3.75" customimagewidth="34" distance3D="243.111" description="" customimageheight="34" use3D="0"/>
+      <hotspot customimage="media/forward_color_arrow.gif" fov="10" skinid="ht_node" url="{node10}" pan="-196.21" target="-2.2/-2.6/136.9" id="Point11" title="Светлая прихожая" tilt="-23.07" customimagewidth="42" distance3D="240.031" description="" customimageheight="28" use3D="0"/>
+      <hotspot customimage="media/binocular.gif" fov="9" skinid="ht_node" url="{node24}" pan="-346.08" target="" id="Point12" title="Дом в тихом районе" tilt="-8.15" customimagewidth="43" distance3D="273.183" description="" customimageheight="41" use3D="0"/>
+      <polyhotspot id="Poly01" title="" url="" description="shkaf_okno" target="_blank">
+        <polystring>-352.26/38.88|-32.15/38.58|-31.99/-21.13|-351.44/-22.17</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" fov="46.300" roty="0.000" width="864" rotx="0.000" pan="-12.090" hidepinned="0" tilt="10.410" id="shkaf_okno" popbackmode="0" stretch="1.000" rotz="0.000" height="1184" clickmode="0" handcursor="0">
+        <source url="media/shtora.jpg"/>
+      </image>
+      <sound startmutedmobile="0" level="1.000" pan="-53.510" tilt="21.640" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/kuhnya.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input leveltilesize="510" width="4954" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.webp" height="4954" levelingroll="4.9943099999999996" levelbias="0.400" levelingpitch="0.149197">
+      <level preload="0" height="4954" predecode="0" width="4954"/>
+      <level preload="0" height="2477" predecode="0" width="2477"/>
+      <level preload="0" height="1238" predecode="0" width="1238"/>
+      <level preload="0" height="619" predecode="0" width="619"/>
+      <level preload="1" height="309" predecode="1" width="309"/>
+      <preview strip="1" color="0x000000"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="72.1006" pan="-13.9959" tilt="-24.1831"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata datetime="01.11.2025 16:16" nodeid="node24" source="" longitude="" latitude="" heading="0" customnodeid="" tags="Pano2VR7" title="Дом в тихом районе" copyright="" comment="" info="Этот дом расположен в уютной и спокойной глубине спального района, где созданы все условия для комфортной жизни с детьми. Территория благоустроена и безопасна: во дворе вас ждет современная детская площадка для самых маленьких, мини-футбольное поле для активных игр и просторная парковка вокруг дома. &#xa;Все необходимое для повседневной жизни находится в шаговой доступности. Ближайший магазин — всего в 100 метрах, а детские сады, школы, детская и взрослая поликлиники расположены неподалеку. Станция метро находится всего в 10 минутах неспешной пешей прогулки, что делает транспортную доступность одним из ключевых преимуществ этого места.  &#xa;Это идеальный вариант для тех, кто ценит спокойную атмосферу при полноценной городской инфраструктуре. " author="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label textalpha="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" enabled="0"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot customimage="media/back_3d.gif" fov="10" skinid="ht_node" url="{node8}" pan="-1.49" target="165.3/-5.9/100.0" id="Point01" title="Кухня для семейного уюта" tilt="-35.09" customimagewidth="36" distance3D="205.741" description="" customimageheight="43" use3D="0"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" level="1.000" pan="-1.020" tilt="3.860" id="Element01" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="1" field="90.000" mode="1">
+        <source mono="0" url="media/dvor.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" level="0.400" pan="-16.710" tilt="29.240" id="Element02" ambientlevel="0.000" tiltsize="10.000" pansize="10.000" nodechangekeep="0" loop="0" field="90.000" mode="1">
+        <source mono="0" url="media/forest_01.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" delay="none" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="0.01" enabled="0" zoomoutpause="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" invertcontrol="1" contextfullscreen="1" invertwheel="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextprojections="0" hideabout="1" lockedkeyboard="0" speedwheel="4" contextvr="1" sensitivity="8" rubberband="1" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" comment="" author="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
