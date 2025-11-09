@@ -1,0 +1,48 @@
+name: Deploy to Yandex Object Storage
+
+on:
+  push:
+    branches: [ main ]    # <- если ваша ветка называется не main, замените
+  workflow_dispatch:      # дает кнопку "Run workflow" в UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install awscli
+        run: |
+          python -m pip install --upgrade pip
+          pip install awscli
+      - name: Verify secrets present
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ]; then echo "ERROR: YC_ACCESS_KEY_ID missing" && exit 1; fi
+          if [ -z "$AWS_SECRET_ACCESS_KEY" ]; then echo "ERROR: YC_SECRET_ACCESS_KEY missing" && exit 1; fi
+          echo "Secrets: OK"
+      - name: Sync files to Yandex Object Storage
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.YC_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.YC_SECRET_ACCESS_KEY }}
+        run: |
+          SOURCE_DIR="./"                # <- взято из вашего файла
+          BUCKET="3dt"                   # <- взято из вашего файла
+          ENDPOINT="https://storage.yandexcloud.net"
+          echo ">>> Debug: show working dir and list"
+          pwd
+          ls -la
+          if [ ! -d "$SOURCE_DIR" ] && [ ! -f "$SOURCE_DIR" ]; then
+            echo "ERROR: Source directory or file $SOURCE_DIR not found"
+            exit 1
+          fi
+          echo ">>> Starting sync to s3://$BUCKET"
+          aws s3 sync "$SOURCE_DIR" "s3://$BUCKET" --endpoint-url "$ENDPOINT" --acl public-read \
+            --exclude ".git/*" --exclude ".github/*" --delete
+          echo ">>> Sync finished"
