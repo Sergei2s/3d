@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="ru" class="scroll-smooth scroll-pt-24">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>gallamarin | 3D-туры и панорамная съемка недвижимости</title>
+    <meta name="description" content="Студия gallamarin: профессиональные 3D-туры, панорамная съемка 360° и интерьерное фото для быстрой продажи и аренды недвижимости. Работаем с Циан и Яндекс." />
+    <meta name="keywords" content="3D-тур, панорама 360, интерьерная съемка, фотограф недвижимости, виртуальный тур, продажа квартиры, gallamarin" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://gallamarin.ru/" />
+    <meta property="og:title" content="gallamarin | Интерактивные 3D-туры для недвижимости" />
+    <meta property="og:description" content="Увеличьте просмотры объявлений с помощью профессиональных 3D-туров и HDR фото." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1200&auto=format&fit=crop" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="gallamarin | Интерактивные 3D-туры для недвижимости" />
+    <meta property="twitter:description" content="Увеличьте просмотры объявлений с помощью профессиональных 3D-туров и HDR фото." />
+    <meta property="twitter:image" content="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1200&auto=format&fit=crop" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              primary: {
+                DEFAULT: '#2563EB', // Blue-600
+                dark: '#1E40AF',    // Blue-800
+              },
+              accent: {
+                DEFAULT: '#FACC15', // Yellow-400
+                dark: '#CA8A04',    // Yellow-600
+              }
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              serif: ['EB Garamond', 'serif'],
+            }
+          }
+        }
+      }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      /* Hide scrollbar for Chrome, Safari and Opera */
+      .no-scrollbar::-webkit-scrollbar {
+          display: none;
+      }
+      /* Hide scrollbar for IE, Edge and Firefox */
+      .no-scrollbar {
+          -ms-overflow-style: none;  /* IE and Edge */
+          scrollbar-width: none;  /* Firefox */
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "framer-motion": "https://aistudiocdn.com/framer-motion@^12.23.24",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.554.0",
+    "lottie-react": "https://esm.sh/lottie-react@2.4.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
